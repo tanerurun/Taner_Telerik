@@ -1,0 +1,11 @@
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\bin\Debug\Taner.Data.dll
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\bin\Debug\Taner.Data.pdb
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\bin\Debug\EntityFramework.dll
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\bin\Debug\EntityFramework.xml
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\obj\Debug\Taner.Data.csprojAssemblyReference.cache
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\obj\Debug\Taner.Data.csproj.CoreCompileInputs.cache
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\obj\Debug\Taner.Data.csproj.CopyComplete
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\obj\Debug\Taner.Data.dll
+C:\Users\shelek\Desktop\taner\taner\Taner.Data\obj\Debug\Taner.Data.pdb

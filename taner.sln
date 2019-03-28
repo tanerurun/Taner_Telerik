@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taner.Data", "Taner.Data\Taner.Data.csproj", "{0A89D57B-37E8-43F7-A2B4-29D5B90F57DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taner.UI.Mvc", "Taner.UI.Mvc\Taner.UI.Mvc.csproj", "{431A8499-E926-4CCD-B3BE-2B8031DFFC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A89D57B-37E8-43F7-A2B4-29D5B90F57DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A89D57B-37E8-43F7-A2B4-29D5B90F57DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A89D57B-37E8-43F7-A2B4-29D5B90F57DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A89D57B-37E8-43F7-A2B4-29D5B90F57DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431A8499-E926-4CCD-B3BE-2B8031DFFC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431A8499-E926-4CCD-B3BE-2B8031DFFC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431A8499-E926-4CCD-B3BE-2B8031DFFC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431A8499-E926-4CCD-B3BE-2B8031DFFC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5134BA-21DA-443C-B3BE-77BB672A8FD9}
+	EndGlobalSection
+EndGlobal
